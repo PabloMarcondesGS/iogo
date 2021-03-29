@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908731335004",
+    "project_id": "igoapp-296720",
+    "storage_bucket": "igoapp-296720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908731335004:android:61c03958503110fec3c199",
+        "android_client_info": {
+          "package_name": "com.igoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908731335004-4fb20cmmudcprd8eog405rkjfvfbr2pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxVmeaRKsa1VopoYJe-rCvStBvxuKyunc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908731335004-4fb20cmmudcprd8eog405rkjfvfbr2pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
